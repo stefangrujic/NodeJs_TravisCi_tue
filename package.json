@@ -22,10 +22,7 @@
     "app",
     "api"
   ],
-  "author": {
-    "name": "Pritesh Patel",
-    "email": "sample@gb.ca"
-  },
+  "author": "Pritesh Patel <sample@gb.ca>",
   "homepage": "https://nodejs.org/",
   "license": "ISC",
   "dependencies": {
@@ -33,5 +30,12 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefangrujic/NodeJs_TravisCi_tue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stefangrujic/NodeJs_TravisCi_tue/issues"
   }
 }
