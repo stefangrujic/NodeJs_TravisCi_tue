@@ -4,7 +4,7 @@
   "description": "Sampel app",
   "main": "index.js",
   "scripts": {
-    "test": "Warning: no test configured\"",
+    "test":  "echo \"Warning: no test configured\"",
     "dev": "nodemon ./index.js localhost 8082"
   },
   "keywords": [
